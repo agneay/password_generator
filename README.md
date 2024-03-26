@@ -1,4 +1,4 @@
-# password_generator
+# password_generator [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 A simple password generator using python
 
 
